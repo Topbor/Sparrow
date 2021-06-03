@@ -1,0 +1,45 @@
+.slider-image img{
+width:100%;
+}
+.slider-text p{
+    color:#fff;
+}
+.post-tumb{
+width:70%!important;
+margin:0 auto;
+}
+#primary .entry-excerpt p strong{
+    font-size: 36px!important;
+    color:#007696!important;
+}
+table{
+    width:100%;
+    border:1px dotted grey; 
+}
+table thead{
+    color:white;
+    background-color:#007696 ;
+}
+table, tr, td{
+    padding:10px;
+}
+ul#nav li a{
+    color:white;
+}
+ul#nav li:hover > a{
+    
+    color:#61b5cd;
+    transition-duration: 0.5s;
+}
+.portfolio .entry-excerpt .sub{
+background: #007696;
+padding: 10px;
+width:30%;
+margin: 0 auto;
+
+}
+
+.portfolio .entry-excerpt .sub a{
+color:white;
+}
+
